@@ -1,0 +1,13 @@
+{
+  "_note": "Illustrative shape. A live run returns the Actor dataset for your own rows.",
+  "example": {
+    "firstName": "Ada",
+    "lastName": "Example",
+    "company": "Example Inc",
+    "hasLinkedIn": true,
+    "linkedinUrl": "https://www.linkedin.com/in/example",
+    "headline": "VP Sales",
+    "matchType": "exact",
+    "success": true
+  }
+}

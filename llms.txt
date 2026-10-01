@@ -1,0 +1,16 @@
+# LinkedIn Profile Finder by Name & Company
+
+> Find a LinkedIn profile from first name, last name, and company by running the Mawsool LinkedIn Profile Finder on Apify.
+
+This repository is an example client. Run the published Mawsool Actor on Apify with your own Apify token. Contact info@mawsool.tech · osama@mawsool.tech. Product site: https://mawsool.tech.
+
+## Actors
+
+- [LinkedIn Profile Finder by Name & Company](https://apify.com/oday/mawsool-linkedin-profile-finder): the Actor this code runs
+- [All Mawsool Actors](https://apify.com/oday): the full LinkedIn data suite
+
+## Docs
+
+- [README](https://github.com/odayali1/find-linkedin-profile-by-name/blob/main/README.md): how to run the example and what it returns
+- [AGENTS.md](https://github.com/odayali1/find-linkedin-profile-by-name/blob/main/AGENTS.md): instructions for coding agents
+- [Example CSV](https://github.com/odayali1/find-linkedin-profile-by-name/blob/main/examples/input.csv): input shape
